@@ -88,5 +88,5 @@ This project is for educational, internship and personal development purposes on
 ## 🙋‍♂️ About Me
 
 **A G Sriee Arvinth Raajhen**  
-Intern at WinVinaya Foundation                                                                                                                    
+Intern at WinVinaya Infosystems                                                                                                                    
 Passionate about building scalable web solutions and improving online user experiences.
